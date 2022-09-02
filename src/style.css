@@ -7,6 +7,9 @@ body {
   .pink-text{
     color:blue;
   }
+  #orange-text{
+    color:orange;
+  }
 p{
     color: blue;
     font-size:16px;;
