@@ -7,3 +7,6 @@ p{
     color: red;
     font-family:lobster, monospace;
 }
+.smaller-image {
+    width: 100px;
+  }
