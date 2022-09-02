@@ -83,9 +83,14 @@ p{
   .penguin {
 
     /* Only change code below this line */
-    --penguin-skin: gray;
-    --penguin-belly: white;
-    --penguin-beak: orange;
+    
+    --penguin-skin:gray;
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 300px;
+    height: 300px;
     /* Only change code above this line */
 
     position: relative;
