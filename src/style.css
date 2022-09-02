@@ -4,7 +4,7 @@ body {
     font-family: monospace;
     color: green;
   }
-  .pink-text{
+  /* .pink-text{
     color:pink !important;
   }
   #orange-text{
@@ -65,4 +65,17 @@ p{
   [type='checkbox']{
     margin-top:10px;
     margin-bottom:15px;
+  }
+  */
+  .red-text {
+    color: #FF0000;
+  }
+  .green-text {
+    color: #00FF00;
+  }
+  .dodger-blue-text {
+    color: #1E90FF;
+  }
+  .orange-text {
+    color: #FFA500;
   }
