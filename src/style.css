@@ -1,6 +1,7 @@
 
 body{
-    background-color:black;
+        color: green;
+        font-family:monospace;    
   }
 p{
     color: blue;
